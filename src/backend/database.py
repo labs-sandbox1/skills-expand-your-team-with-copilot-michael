@@ -167,6 +167,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Dive into epic adventures, master the art of manga storytelling, and unleash your inner hero! Join fellow otaku as we explore legendary series, debate the best shounen battles, and create our own manga masterpieces.",
+        "schedule": "Tuesdays, 5:00 PM - 6:30 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "17:00",
+            "end_time": "18:30"
+        },
+        "max_participants": 25,
+        "participants": []
     }
 }
 
